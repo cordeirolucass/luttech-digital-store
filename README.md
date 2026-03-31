@@ -106,14 +106,11 @@ frontend/
 
 ## ✅ Funcionalidades
 
-### Obrigatórias
 - [x] Listagem de produtos com nome, descrição, preço e imagem
 - [x] Carrinho: adicionar, remover, alterar quantidade
 - [x] Validação de quantidade (mínimo 1, máximo 10)
 - [x] Checkout simulado com mensagem de sucesso
 - [x] Carrinho limpo após checkout
-
-### Opcionais
 - [x] Busca de produtos por nome/descrição
 - [x] Filtros por categoria
 - [x] Toasts de feedback ("Produto adicionado com sucesso")
